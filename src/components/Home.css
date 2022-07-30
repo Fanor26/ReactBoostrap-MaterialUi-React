@@ -1,0 +1,25 @@
+.mui-navigation {
+    padding: 20px;
+    min-height: 100vh;
+    background-color: #232323;
+  }
+  .mui-navigation h1 {
+    color: white;
+  }
+  .mui-navigation .headline {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  .mui-navigation ul {
+    padding: 0;
+  }
+  .mui-navigation ul li {
+    list-style: none;
+    margin-right: 20px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .mui-navigation a {
+    color: #132cdc;
+  }
