@@ -23,3 +23,8 @@
   .mui-navigation a {
     color: #132cdc;
   }
+  .title-description{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(120, 30, 224);
+  }
